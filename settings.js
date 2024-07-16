@@ -9,19 +9,19 @@ global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot8' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.botname = 'Travis' //ur bot name
+global.ownernumber 'Travis' //ur owner number
+global.ownername = 'Travis' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🪀'
-global.wm = "Deepak Bot Inc."
+global.wm = "Travis."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot8' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "917029257330@s.whatsapp.net"
+global.packname = "Travis"
+global.author = "Travis"
+global.creator = "2250706903626@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330","918348225320"] // Premium User
+global.premium = ["2250706903626"] // Premium User
 global.hituet = 0
 
 //bot sett
